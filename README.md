@@ -5,7 +5,9 @@
 Aged 25, I am living in Paris.
 
 Soon to be 42 Senior, I am currently working on the paper of my latest project.  
-I am still exploring on replicant program, and binary exploitation.  
+I am still exploring on replicant program, and binary exploitation.
+
+You can contact me at `jle-quel@student.42.us.org`
 
 **Looking for an internship at the end of 2019.**
 
