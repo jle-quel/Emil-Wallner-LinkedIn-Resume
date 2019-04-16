@@ -62,7 +62,7 @@ EF Education gives you the ability to learn languages abroad.
 
 - Virology, Security, Network, Unix
 
-#### Platform
+#### Platforms
 
 - Linux, OSX, UNIX
 
