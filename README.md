@@ -1,117 +1,86 @@
+<p align="center"><img src="resume.png"></p>
 
-<p align="center"><img src="header.png"></p>
+## Introduction
 
-<p align="center">
-  <a href="https://twitter.com/emilwallner"><img src="https://img.shields.io/badge/Twitter-6054-34A1F2.svg" alt="Twitter"></a>
-  <a href="https://medium.com/@emilwallner"><img src="https://img.shields.io/badge/Medium-4256-71EF8E.svg" alt="Medium"></a>
-  <a href="mailto:w@llner.co"><img src="https://img.shields.io/badge/Email-w%40llner.co-red.svg" alt="Email"></a>
-  <a href="https://github.com/emilwallner"><img src="https://img.shields.io/badge/GitHub-1012-000000.svg" alt="GitHub"></a>
-  <a href="https://goo.gl/maps/gxHX7SRQQTL2"><img src="https://img.shields.io/badge/Location-Paris-00FFB4.svg" alt="Paris"></a>
+Aged 25, I am living in Paris.
 
-  <img src="https://img.shields.io/badge/Telegram-%40emilwallner-%233DA6D9.svg" alt="Telegram">
+Soon to be 42 Senior, I am currently working on the paper of my latest project.  
+I am still exploring on replicant program, and binary exploitation.  
 
-</p>
+**Looking for an internship at the end of 2019.**
 
----
+## Experience
 
-Emil is currently exploring code synthesis, mathematical reasoning, and deep reinforcement learning. He's studying Computer Science at 42 Paris. In 2018, he made a popular open source project that translates design mock-ups into HTML/CSS, [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code). Google recently recognized him as a [Google Developer Expert](https://developers.google.com/programs/experts/) on Machine Learning. 
+#### R&D Internship at [Ptwist](https://ptwist.eu/)
+##### May 2017 - September 2018, Paris
 
-
-[His blog](http://medium.com/@emilwallner) is translated to a dozen languages, which reaches over a million developers each year. Emil used to work for Oxford's business school and he started a [seed investment firm](http://emerge.education/) focussed on education technology. Email: w@llner.co
-
-**Looking for a deep learning engineering/research internship at the end of 2019.**
-
-<br/>
-
-## A Short Video Introduction
-<a href="https://www.youtube.com/watch?v=xKPk7tG2upc" target="_blank"><img src="video.png" alt="IMAGE ALT TEXT HERE" /></a>
-
-<br/>
-
-## Latest Projects 
-
-- [**Screenshot-to-code**](https://github.com/emilwallner/Screenshot-to-code), A neural network that transforms a design mock-up into a static website.
-- [**Colorization**](https://github.com/emilwallner/Coloring-greyscale-images), Coloring B&W portraits with neural networks. (featured by [Google](https://www.blog.google/technology/ai/creative-coder-adding-color-machine-learning/))
-- [**Drawing-to-logo**](http://www.aiartonline.com/design/emil-wallner/), a custom pix2pixHD model that transforms drawings into graphics (featured at [NeurIPS 2018](http://www.aiartonline.com/design/emil-wallner/)).
-- [**Core-war**](https://github.com/emilwallner/Corewar), A reproduction of the Core War game. Assembly compiler, Virtual Machine and GUI. 
-
-
-
-<br/>
-
-## Experience 
-
-#### Deep Learning Internship, [FloydHub (YC W17)](https://www.floydhub.com/)
-##### July 2017 - January 2018 (7 months)  | San Francisco Bay Area
-
-Developing deep learning projects and documenting the process.
-
---- 
-
-#### Co-founder, [Emerge Education](https://emerge.education/)
-##### December 2012 - November 2014 (2 years) | London
-
-Europe's leading seed investor for edtech companies.
+Development of a cryptocurrency for the European project Ptwist as part of Horizon 2020.
 
 ---
 
+#### Production Internship at [XART](https://www.xartthemovie.com/)
+##### June 2015 - January 2016, London
 
-#### TA and Developer, [University of Oxford - Said Business School](https://www.sbs.ox.ac.uk/)
-##### April 2012 - January 2014 (1 year 10 months) | Oxford
+Research and Advertising for the XART Movie.
 
-I assisted their MBA course on design thinking and did websites for the Skoll Centre.
+-----
 
----
+#### Audio Engineer at [Non Stop People](http://www.non-stop-people.com/)
+##### January 2014 - January 2015, Paris
 
-<br/>
+Recording and Mastering in studio for TV production.
+
+-----
+
 
 ## Education
 
-#### Computer Science, [42](https://www.42.fr/)
-##### (2016 - 2019) | Paris
+#### Software Engineer Student at [42](https://www.42.fr/)
+##### March 2017 - Present, Fremont and Paris
 
-42 is a private, nonprofit and tuition-free computer programming school created and funded by French billionaire Xavier Niel. 
+42 is an innovating engineering college, disrupting software engineering education.
 
-*' My God is 42 impressive. This is not another programming bootcamp. It's another MIT.'*, Paul Graham. 
+-----
 
+#### Audio Engineer Student at [London School of Sound](https://www.londonschoolofsound.co.uk/)
+##### 2013 - 2014, London
 
----
+London School of Sound is a non-profit independent college for the creative industries.
 
-#### White Label, [Stockholm School of Entrepreneurship](https://www.sses.se/)
-##### (2011 - 2012) | Stockholm
+-----
 
-A joint program for six students between the Royal Institute of Technology, Stockholm School Of Economics, and Konstfack University College of Arts, Crafts and Design on Venture Creation. 
+#### English Language Student at [EF](https://www.ef.fr/)
+##### 2012 - 2013, Los Angeles
 
----
+EF Education gives you the ability to learn languages abroad.
 
+-----
 
-<br/>
+## Skills
 
-## Stack
+#### Fields
 
-### Programming
+- Virology, Security, Network, Unix
 
-- C, Python, Javascript, React, Tensorflow, Pytorch, and Keras.
+#### Platform
 
-### Platforms
+- Linux, OSX, UNIX
 
-- Kubernetes, Firebase, FloydHub, Google Cloud Platform, Digital Ocean, and AWS.
+#### Programming
 
-### Design
+- C, Golang, ASM, Bash
 
-- Sketch and Photoshop.
+#### Tools
 
-### Languages
+- R2, Git, Vim, Zsh, Tmux
 
-- English and Swedish.
+#### Languages
 
-
-<br/>
+- English, French
 
 ## Quirks
 
-- I've lived in Ghana where I volunteered as a teacher and accidentally became the king of the village I lived in. 
-- I joined a music group and toured a dozen countries. My highlight was a Spanish solo for 6k Mexicans. (For the record, I'm a terrible singer. I only got the opportunity because the three first options were sick.)
-- For a year, I lived as a digital nomad in southeast Asia, the States, and South Africa.
-- I run the equivalent of a marathon every week, only wear black, and I own less than a hundred objects. 
-- I've participated in a silent retreat and taken several solo trips to remote parts of the world. 
+- I learned to play the piano, guitar, and drum by myself when I was a child.
+- I am currently reading "Learning Binary Analysis" by Ryan O'Neil, and "La Guerre Des Intelligences" by Dr. Laurent Alexandre.
+- I could never find any pair of Jeans that suits me, so when I was in London I decided to make my own capsule collection.
+- I did a whole lot of extreme sports like Surfboard, Kitesurf, Snowboard, Motocross and only broked my ankles and wrist. Once or twice.
