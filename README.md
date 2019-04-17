@@ -80,9 +80,9 @@ EF Education gives you the ability to learn languages abroad.
 
 - English, French
 
-## Quirks
+## Interests
 
 - I learned to play the piano, guitar, and drum by myself when I was a child.
 - I am currently reading "Learning Binary Analysis" by Ryan O'Neil, and "La Guerre Des Intelligences" by Dr. Laurent Alexandre.
 - I could never find any pair of Jeans that suits me, so when I was in London I decided to make my own capsule collection.
-- I did a whole lot of extreme sports like Surfboard, Kitesurf, Snowboard, Motocross and only broked my ankles and wrists. Once or twice.
+- I did a whole lot of extreme sports like Surfboard, Kitesurf, Snowboard, Motocross and only broked my ankles and wrists, once or twice.
