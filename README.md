@@ -4,11 +4,9 @@
 
 Aged 25, I am living in Paris.
 
-Freshly graduated as 42 Senior, I am currently looking for an internship in early 2020.
-
 You can contact me at `jle-quel@student.42.us.org`
 
-**Looking for an internship at the end of 2019.**
+**Freshly graduated as 42 Senior, I am currently looking for an internship in early 2020.**
 
 ## Experience
 
