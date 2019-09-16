@@ -71,7 +71,7 @@ EF Education gives you the ability to learn languages abroad.
 
 #### Tools
 
-- R2, Git, Vim, Zsh, Tmux
+- R2, Ghidra, Gdb, Git, Neovim, Zsh, Tmux
 
 #### Languages
 
@@ -80,6 +80,6 @@ EF Education gives you the ability to learn languages abroad.
 ## Interests
 
 - I learned to play the piano, guitar, and drum by myself when I was a child.
-- I am currently reading "Learning Binary Analysis" by Ryan O'Neil, and "La Guerre Des Intelligences" by Dr. Laurent Alexandre.
+- I am currently reading "Learning Binary Analysis" by Ryan O'Neil, and "La Toile que Nous Voulons".
 - I could never find any pair of Jeans that suits me, so when I was in London I decided to make my own capsule collection.
 - I did a whole lot of extreme sports like Surfboard, Kitesurf, Snowboard, Motocross and only broked my ankles and wrists, once or twice.
