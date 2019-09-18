@@ -1,5 +1,3 @@
-<p align="center"><img src="resume.png"></p>
-
 ## Introduction
 
 Aged 25, I am living in Paris.
