@@ -61,7 +61,7 @@ EF Education gives you the ability to learn languages abroad.
 
 #### Platforms
 
-- Linux, OSX, UNIX
+- Linux, OSX
 
 #### Programming
 
