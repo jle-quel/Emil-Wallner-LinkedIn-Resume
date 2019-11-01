@@ -65,11 +65,11 @@ EF Education gives you the ability to learn languages abroad.
 
 #### Programming
 
-- C, Golang, ASM, Bash
+- C, CPP, Golang, ASM, Bash
 
 #### Tools
 
-- R2, Ghidra, Gdb, Git, Neovim, Zsh, Tmux
+- R2, Ghidra, Cutter, Gdb, Git, Neovim, Zsh, Tmux
 
 #### Languages
 
