@@ -6,9 +6,6 @@ You can contact me at `jle-quel@student.42.us.org`
 
 **Freshly graduated as 42 Senior, I am currently looking for an internship in early 2020.**
 
-github: https://github.com/jle-quel/  
-linkedin: https://www.linkedin.com/in/jefferson-le-quellec-217675192/
-
 ## Experience
 
 #### R&D Internship at [Ptwist](https://ptwist.eu/)
@@ -84,3 +81,8 @@ EF Education gives you the ability to learn languages abroad.
 - I am currently reading "Learning Binary Analysis" by Ryan O'Neil, and "La Toile que Nous Voulons".
 - I could never find any pair of Jeans that suits me, so when I was in London I decided to make my own capsule collection.
 - I did a whole lot of extreme sports like Surfboard, Kitesurf, Snowboard, Motocross and only broked my ankles and wrists, once or twice.
+
+## Links
+
+- github: https://github.com/jle-quel/  
+- linkedin: https://www.linkedin.com/in/jefferson-le-quellec-217675192/
