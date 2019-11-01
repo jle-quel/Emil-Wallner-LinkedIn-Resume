@@ -4,10 +4,10 @@ Aged 25, I am living in Paris.
 
 You can contact me at `jle-quel@student.42.us.org`
 
-github: https://github.com/jle-quel/
-linkedin: https://www.linkedin.com/in/jefferson-le-quellec-217675192/
-
 **Freshly graduated as 42 Senior, I am currently looking for an internship in early 2020.**
+
+github: https://github.com/jle-quel/  
+linkedin: https://www.linkedin.com/in/jefferson-le-quellec-217675192/
 
 ## Experience
 
